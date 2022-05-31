@@ -1,0 +1,8 @@
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\Escritura archivos\Escritura archivos\bin\Debug\Escritura archivos.exe.config
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\Escritura archivos\Escritura archivos\bin\Debug\Escritura archivos.exe
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\Escritura archivos\Escritura archivos\bin\Debug\Escritura archivos.pdb
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\Escritura archivos\Escritura archivos\obj\Debug\Escritura archivos.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\Escritura archivos\Escritura archivos\obj\Debug\Escritura archivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\Escritura archivos\Escritura archivos\obj\Debug\Escritura archivos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\Escritura archivos\Escritura archivos\obj\Debug\Escritura archivos.exe
+C:\Users\usuario\Documents\ITT\POO\4 UNIDAD\Escritura archivos\Escritura archivos\obj\Debug\Escritura archivos.pdb
